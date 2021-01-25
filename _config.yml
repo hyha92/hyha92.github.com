@@ -98,7 +98,7 @@ author:
   bio              : "PhD student with 6+ years experience specializing in Color and Image Science"
   location         : "South Korea"
   email            : "hyeyoungha92@gmail.com"
-  GitHub	        : "https://github.com/hyha92/hyha92.github.io"
+  github	         : "https://github.com/hyha92/hyha92.github.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
