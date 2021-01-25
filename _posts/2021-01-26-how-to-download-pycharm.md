@@ -63,7 +63,7 @@ Next 눌러주시면 됩니다.
 ![setup_successful](/assets/images/2021-01-26-how-to-download-pycharm/PyCharm Community Edition Setup  2021-01-25 오후 9_22_30.png)  
   
 Reboot now 누르면 강제 종료되고 컴퓨터가 다시 시작됩니다.  안전하게 두번째를 선택했어요.  
-2번째를 선택해주신분은 컴퓨터를 한번 끄고 다시 시작해주셔야 합니다!  
+2번째를 선택하면 컴퓨터를 한번 끄고 다시 시작해 주셔야 합니다!  
 (PATH 설정 등 환경 설정이 필요하니 꼭 다시 시작해주세요.)    
 
 #### 4. 파이썬 설치 완료 확인
@@ -71,7 +71,7 @@ Reboot now 누르면 강제 종료되고 컴퓨터가 다시 시작됩니다.  �
 
 ![setup_finished](/assets/images/2021-01-26-how-to-download-pycharm/Screenshot 2021-01-25 오후 9_29_51.png)  
 
-설치가 잘 완료되었으면 보시는것과 같이 Pycharm Community Edition이 나오는데 이걸 클릭해주세요.
+설치가 잘 완료되었으면 보시는 것과 같이 Pycharm Community Edition이 나오는데 이걸 클릭해주세요.
 
 ![pycharm_screen](/assets/images/2021-01-26-how-to-download-pycharm/JetBrains Privacy Policy 2021-01-25 오후 9_30_06.png)  
   
