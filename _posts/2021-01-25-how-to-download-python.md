@@ -1,5 +1,7 @@
 ---
 title: "파이썬 시작하기: 파이썬 설치 방법"
+toc: true
+toc_sticky: true
 categories:
   - 파이썬
 tags:
