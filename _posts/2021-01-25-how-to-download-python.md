@@ -4,6 +4,7 @@ toc: true
 toc_sticky: true
 categories:
   - ColorLab
+  - Python
 tags:
   - Python
   - Download
