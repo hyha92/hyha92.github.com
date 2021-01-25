@@ -21,8 +21,7 @@ C나 C++ 같은 언어보다는 배우기 쉽기때문에
 <https://www.python.org/downloads/>  
 본인의 운영체제에 맞는 파이썬을 다운로드 해주세요.  
 여기서는 윈도우 64 bit 운영체제에서 사용하는 파이썬을 다운로드 해보겠습니다.  
-> ![homepage](/assets/images/homepage.PNG)
-
+![homepage](/assets/images/homepage.PNG)
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 
