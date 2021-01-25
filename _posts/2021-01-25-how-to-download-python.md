@@ -40,7 +40,7 @@ C나 C++ 같은 언어보다는 배우기 쉽기때문에
 
 ####4. 파이썬 설치 완료 확인
 설치가 완료되었으면 시작 검색바에 Python 혹은 IDLE 이라고 검색해주세요.  
-![setup_finished](/assets/images/2021-01-25-how-to-download-python/setup_finished.PNG)  
+![setup_finished](/assets/images/2021-01-25-how-to-download-python/setup_finished.png)  
 설치가 잘 완료되었으면 보시는것과 같이 Python IDLE이 나오는데 이걸 클릭해주세요.
 ![python_screen](/assets/images/2021-01-25-how-to-download-python/python_screen.PNG)  
 다음과 같이 IDLE이 잘 뜨면 파이썬 설치는 끝! (짝짝짝)  
