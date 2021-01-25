@@ -6,6 +6,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "ColorLab"
+    url: /categories/ColorLab
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
