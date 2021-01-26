@@ -35,7 +35,7 @@ Professional이 Community 보다 기능이 좀더 많지만,
 ![homepage](/assets/images/2021-01-26-how-to-download-pycharm/Download PyCharm_ Python IDE for Professional Developers by JetBrains - Chrome 2021-01-25 오후 9_19_05 (1).png)
   
 
-#### 2. 파이썬 설치
+#### 2. 파이참 설치
 다운로드된 파일을 열어주시면 다음과 같이 설치창이 보입니다.  
   
 ![setup](/assets/images/2021-01-26-how-to-download-pycharm/PyCharm Community Edition Setup 2021-01-25 오후 9_20_03.png)  
@@ -66,7 +66,7 @@ Reboot now 누르면 강제 종료되고 컴퓨터가 다시 시작됩니다.  �
 2번째를 선택하면 컴퓨터를 한번 끄고 다시 시작해 주셔야 합니다!  
 (PATH 설정 등 환경 설정이 필요하니 꼭 다시 시작해주세요.)    
 
-#### 4. 파이썬 설치 완료 확인
+#### 4. 파이참 설치 완료 확인
 설치가 완료되었으면 시작 검색바에 Pycharm 이라고 검색해주세요.  
 
 ![setup_finished](/assets/images/2021-01-26-how-to-download-pycharm/Screenshot 2021-01-25 오후 9_29_51.png)  
