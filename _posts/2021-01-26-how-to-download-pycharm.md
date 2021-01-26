@@ -71,7 +71,7 @@ Reboot now 누르면 강제 종료되고 컴퓨터가 다시 시작됩니다.  �
 
 ![setup_finished](/assets/images/2021-01-26-how-to-download-pycharm/Screenshot 2021-01-25 오후 9_29_51.png)  
 
-설치가 잘 완료되었으면 보시는 것과 같이 Pycharm Community Edition이 나오는데 이걸 클릭해주세요.
+설치가 잘 완료되면 보시는 것과 같이 Pycharm Community Edition이 나오는데 이걸 클릭해주세요.
 
 ![pycharm_screen](/assets/images/2021-01-26-how-to-download-pycharm/JetBrains Privacy Policy 2021-01-25 오후 9_30_06.png)  
   
@@ -93,15 +93,12 @@ Reboot now 누르면 강제 종료되고 컴퓨터가 다시 시작됩니다.  �
   
 ![pycharm_test](/assets/images/2021-01-26-how-to-download-pycharm/Screenshot 2021-01-25 오후 9_34_12.png)  
 
-9번째줄에 빨간색 동그라미는 코드 실행시 중간에 멈춰주는 것인데,  
-클릭해주면 다음과 같이 사라집니다. (보통 디버깅할때 많이 사용해요.)  
-오른쪽 상단에 플레이모양 (삼각형)을 눌러줍니다. (실행 버튼이에요.)  
+9번째줄에 빨간색 동그라미는 코드 실행시 중간에 멈춰주는 것인데, 클릭해주면 다음과 같이 사라집니다. (보통 디버깅할때 많이 사용해요.)  오른쪽 상단에 플레이모양 (삼각형)을 눌러줍니다. (실행 버튼이에요.)  
   
 ![pycharm_test](/assets/images/2021-01-26-how-to-download-pycharm/helloWord – main.py 2021-01-25 오후 9_34_32.png)  
 
 하단에 실행 결과가 나오는데 저희는 Hi, {name}을 출력하도록 하였고,  
-변수 {name}은 PyCharm으로 입력해주었죠!  
-그래서 Hi, PyCharm이라고 잘 나오네요!  
+변수 {name}은 PyCharm으로 입력해주었죠! 그래서 Hi, PyCharm이라고 잘 나오네요!  
   
 ![pycharm_test](/assets/images/2021-01-26-how-to-download-pycharm/helloWord – main.py 2021-01-25 오후 9_34_41.png)  
   
