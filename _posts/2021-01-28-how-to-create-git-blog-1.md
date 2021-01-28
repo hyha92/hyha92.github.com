@@ -38,7 +38,7 @@ Github로 블로그를 만들려면, 우선 Github 계정이 필요합니다. �
 
 setting 버튼을 누르면 설정 메뉴가 뜨는데, Options -> Settings 에 보시면 Repository name 이 UserID.github.io로 잘 생성되었는지 확인해주세요.
 
-![check](/assets/images/2021-01-28-how-to-create-git-blog-1/hyha92_hyha92.github.io - Chrome 2021-01-28 오후 9_45_15.jpg)
+![check](/assets/images/2021-01-28-how-to-create-git-blog-1/Options - Chrome 2021-01-28 오후 9_51_53.jpg)
 
 여기까지 잘 생성되었으면 주소창에 UserID.github.io를 치고 블로그 사이트가 잘 생성되었는지 확인할 수 있어요! 아직 아무것도 없는 깡통 사이트지만 이제부터 예쁘게 바꿔볼께요!
 
@@ -59,11 +59,11 @@ setting 버튼을 누르면 설정 메뉴가 뜨는데, Options -> Settings 에 
 
 #### 2. Git 설치하기
 
-Git은 공식 홈페이지에서 본인 컴퓨터 사양에 맞는 것으로 설치해주세요. [(공식 홈페이지 클릭)](https://git-scm.com/downloads)
+Git은 공식 홈페이지에서 본인 컴퓨터 사양에 맞는 것으로 설치해주세요. [(Git 공식 홈페이지 클릭)](https://git-scm.com/downloads)
 
 설치는 별다른 것 없이 Next만 눌러주시고 완료해주시면 됩니다! 완료가 되면 시작메뉴에서 "cmd"를 실행시키고, 다음과 같이 "git --version"을 입력후 버전이 뜨면 잘 설치된 것입니다.
 
-```cmd
+```
 $ git --version
 ```
 
@@ -73,7 +73,7 @@ $ git --version
 
 다음으로는 Github Desktop을 설치해볼께요. 사실 그냥 온라인으로 해도되고, 매번 cmd를 이용해서 명령어를 사용해도 되지만, 써보니까 UI도 좋고 훨씬 직관적이고 편하더라구요! 특히 아직 프로그래밍이 익숙하지 않으신분들은 개념만 알면 쉽게 사용가능합니다! **(Commit -> Push / Pull)**
 
-Github Desktop을 공식 사이트에 가서 설치해주세요. [(공식 사이트 클릭)](https://desktop.github.com/)
+Github Desktop을 공식 사이트에 가서 설치해주세요. [(Github Desktop 공식 홈페이지 클릭)](https://desktop.github.com/)
 
 설치는 크게 어려운것 없이 로그인해 설치 완료하시면 됩니다. 제가 스크린샷이 없네요 ㅜㅜ
 
