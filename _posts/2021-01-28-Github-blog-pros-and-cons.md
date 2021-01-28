@@ -16,6 +16,8 @@ tags:
 
 안녕
 
+해보자
+
 
 우선 저는 컴퓨터 프로그래밍 전공자가 아닙니다 ... ㅜㅜ  
 제 전공은 Color & Image Science 지만, 실제로 회사에서 인턴을 하다보니 결국 제품에 들어가야하는건 알고리즘! 즉 C나 C++를 최소한 깔고가야하고 MATLAB은 회사에서 비싸서 대부분의 영상처리는 Python으로 해야 의사소통이 가능하다는걸 알았어요. 그래서 차근차근 미래의 나에게도 기억 저장소가 되기를 바라는 마음과 컴퓨터 비전공자도 영상처리 할수있도록 제가 아는 지식을 공유하고자 블로그를 시작했어요!
@@ -58,5 +60,5 @@ tags:
 다음에는 깃 블로그 만들기로 돌아올께요 :)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTY1NDUwNV19
+eyJoaXN0b3J5IjpbLTIzMTYyODA0NSwxMjQxNjU0NTA1XX0=
 -->
