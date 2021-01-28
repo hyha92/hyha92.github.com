@@ -30,7 +30,7 @@ tags:
 
 #### 1. 파이참 다운로드
 
-파이참은 공식 홈페이지에서 최신버전으로 다운로드 가능합니다. [공식 홈페이지 클릭](https://www.jetbrains.com/pycharm/download/#section=windows)  
+파이참은 공식 홈페이지에서 최신버전으로 다운로드 가능합니다. [(공식 홈페이지 클릭)](https://www.jetbrains.com/pycharm/download/#section=windows)  
 본인의 운영체제에 맞는 파이참을 다운로드 해주세요.  
 저는 파이썬과 동일하게 윈도우 64 bit 운영체제를 선택했어요.  
 Professional이 Community 보다 기능이 좀더 많지만,  
