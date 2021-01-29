@@ -146,7 +146,7 @@ CTRL + F 눌러서 "Plugins" 검색해주시면, 대에충 200줄쯤에 (저는 
   - jekyll-include-cache
 ```
 
-![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/_config - Windows 메모장 2021-01-29 오후 4_35_06.png)
+![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/config - Windows 메모장 2021-01-29 오후 4_35_06.png)
 
 그다음 아까 repository 에서 열었던 cmd 창으로 돌아가서 "bundle" 이라고 치고 엔터눌러주세요.
 
@@ -160,7 +160,7 @@ bundle
     remote_theme      : "mmistakes/minimal-mistakes@4.21.0"
 ```
 
-![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/_config - Windows 메모장 2021-01-29 오후 4_39_36.png)
+![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/config - Windows 메모장 2021-01-29 오후 4_39_36.png)
 
 그리고 "url"을 찾아서 본인 블로그 주소가 잘 되어있는지 확인하시고 안되어있으면 바꿔주세요!
 
@@ -168,7 +168,7 @@ bundle
 url                      : "https://UserID.github.io/"
 ```
 
-![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/_config - Windows 메모장 2021-01-29 오후 4_54_49.png)
+![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/config - Windows 메모장 2021-01-29 오후 4_54_49.png)
 
 <hr/>
 
