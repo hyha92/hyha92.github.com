@@ -8,7 +8,9 @@ categories:
  - Git Blog  
 tags:  
  - Github  
- - Git Blog
+ - Git Blog  
+ - Git Desktop  
+ - Git Repository
 
 ---
 
