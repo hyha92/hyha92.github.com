@@ -151,7 +151,17 @@ bundle
 
 ![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/_config - Windows 메모장 2021-01-29 오후 4_39_36.png)
 
-#### 4. 블로그 돌아가서 확인
+그리고 "url"을 찾아서 본인 블로그 주소가 잘 되어있는지 확인하시고 안되어있으면 바꿔주세요!
+
+```
+url                      : "https://UserID.github.io/"
+```
+
+![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/_config - Windows 메모장 2021-01-29 오후 4_54_49.png)
+
+### C. Git Commit & Push
+
+자 여기까지 오셨으면 로컬에서는 다 완성되었습니다! 이제는 온라인 Github 클라우드에 올려야해요. 저번에 깔아준 Github Desktop을 실행해주세요.
 
 그리고 1~2분 후에 본인 블로그 사이트 "UserID.github.io"로 들어가서 확인해주세요! 테마가 잘 적용되면 성공!
 
