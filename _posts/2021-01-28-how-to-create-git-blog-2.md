@@ -159,10 +159,24 @@ url                      : "https://UserID.github.io/"
 
 ![rubysetup](/assets/images/2021-01-28-how-to-create-git-blog-2/_config - Windows 메모장 2021-01-29 오후 4_54_49.png)
 
+<hr/>
+
 ### C. Git Commit & Push
 
-자 여기까지 오셨으면 로컬에서는 다 완성되었습니다! 이제는 온라인 Github 클라우드에 올려야해요. 저번에 깔아준 Github Desktop을 실행해주세요.
+#### 1. Git Commit
 
-그리고 1~2분 후에 본인 블로그 사이트 "UserID.github.io"로 들어가서 확인해주세요! 테마가 잘 적용되면 성공!
+자 여기까지 오셨으면 로컬에서는 다 완성되었습니다! 이제는 온라인 Github 클라우드에 올려야해요. 저번에 깔아준 Github Desktop을 실행해주세요. 내용은 지금 저랑 다를 수 있어요. 보시는 것과 같이 왼쪽에 Change 탭이 있고 오른쪽에는 미리보기처럼 어떤것이 바뀐건지 보여줘요. 자 중요한건 summary에 뭐라도 적고 (필수), commit 을 눌러주세요.
+
+![gitcommit](/assets/images/2021-01-28-how-to-create-git-blog-2/commit.png)
+
+그리고나면 다음과 같이 push를 눌러주세요. Push 는 내 컴퓨터에 있는 파일을 클라우드에 업로드하는것 입니다.
+
+![gitpush](/assets/images/2021-01-28-how-to-create-git-blog-2/push.png)
+
+#### 2. 블로그 확인하기
+
+그리고 1~2분 후에 본인 블로그 사이트 "UserID.github.io"로 들어가서 확인해주세요! 테마가 잘 적용되면 성공! 바로 들어가지 마시고 1~2분 기다리고 들어가셔야 적용되어 있더라구요!
 
 <hr/>
+
+여기까지 하면 적용 완료!! 다음에는 본인 스타일에 맞도록 테마를 수정해보도록 할께요 : )
