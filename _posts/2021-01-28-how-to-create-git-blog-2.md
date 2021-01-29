@@ -56,6 +56,8 @@ Git Destop에서 다음과 같이 Repository를 clone 하려고 하는데, 첫�
 
 a) Git Desktop에서 Clone 하던 b) ZIP 파일 다운로드하던, 중요한건 **본인 블로그 repository에 모든 파일이 잘 복사되어있는가** 입니다.
 
+![check](/assets/images/2021-01-28-how-to-create-git-blog-2/hyha92.github.io 2021-01-29 오후 5_22_50.png)
+
 <hr/>
 
 ### B. Quick-Start Guide 따라하기 (중요!)
