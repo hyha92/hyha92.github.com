@@ -1,6 +1,6 @@
 ---
 
-title: "기술 블로그 시작하기: Github를 이용하여 블로그 만들기 (2)"  
+title: "기술 블로그 시작하기: Github 블로그 테마 적용하기"  
 toc: true  
 toc_sticky: true  
 categories:  
@@ -11,8 +11,13 @@ tags:
  - Git Blog  
  - minimal-mistakes  
  - Ruby  
+ - Gem  
  - Jekyll  
- - Git Clone
+ - Git Clone  
+ - Jekyll Theme  
+ - Git Desktop  
+ - Git Commit  
+ - Git Push
 
 ---
 
