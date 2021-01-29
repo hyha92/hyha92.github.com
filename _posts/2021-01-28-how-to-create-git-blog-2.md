@@ -26,7 +26,11 @@ Github 블로그는 비전문가가 하나하나 다 만들기는 조금 어려�
 
 ### A. Jekyll Theme 다운로드 (Git Clone)
 
-우선 minimal-mistakes 테마를 다운로드 해주세요. 다음과 같이 **Code** 버튼을 눌러서 clone (복제)해주시면 되는데 두가지 방법을 알려드릴께요.
+우선 minimal-mistakes 테마를 다운로드 해주세요.
+
+[Minimal Mistakes 공식 홈페이지 클릭](https://github.com/mmistakes/minimal-mistakes)
+
+**Code** 버튼을 눌러서 clone (복제)해주시면 되는데 두가지 방법이 있어요. 둘중 편한 방법 골라서 선택해주세요.
 
 #### 1. Git Desktop 사용
 
@@ -38,7 +42,7 @@ Git Destop에서 다음과 같이 Repository를 clone 하려고 하는데, 첫�
 
 ![downloads](/assets/images/2021-01-28-how-to-create-git-blog-2/GitHub Desktop 2021-01-29 오후 3_20_43.png)
 
-#### b. ZIP 파일 다운로드
+#### 2. ZIP 파일 다운로드
 
 인터넷에서 압축 파일 많이 받으시죠? 다음과 같이 ZIP파일을 그냥 다운로드해주세요. 그러면 다운로드 폴더에 ZIP 파일이 다운로드 되어있을거에요. 다운 받고 압축을 풀어주세요.
 
